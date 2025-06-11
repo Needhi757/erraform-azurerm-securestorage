@@ -1,0 +1,1 @@
+# erraform-azurerm-securestorage
